@@ -240,22 +240,9 @@ Erreur	Solution
 Connection refused 9092	Démarrer Kafka
 Index not found	Vérifier le consumer
 No data view	Créer le data view dans Kibana
-📋 Checklist de Démo
-Avant la Présentation
-Tous les services démarrés
-Producer qui tourne (logs visibles)
-Consumer qui traite les données
-Index Elasticsearch avec des données
-Dashboards Kibana configurés
-Screenshots préparés
-Pendant la Démo
-Montrer les logs du producer
-Vérifier les messages Kafka
-Afficher l'indexation Elasticsearch
-Présenter les dashboards Kibana
-Expliquer l'architecture
+
 👨‍💻 Développeur
-Nom : [Votre Nom]
+Nom : Steven CODJO
 Projet : Application Big Data Temps Réel
 Date : Janvier 2025
 
